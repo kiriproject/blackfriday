@@ -1,0 +1,15 @@
+{
+  "name": "Kiri Focus Timer",
+  "url": "https://project-kiri.com/pricing?utm_source=indiegoodies&utm_campaign=blackfriday_2026",
+  "description": "Focus timer in a browser tab: a dial for focus and breaks, a task list and ten background sounds that go quiet in breaks",
+  "category": "productivity",
+  "platforms": ["web"],
+  "deal": "50% off the pay-once Lifetime licence",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": { "regular": 39, "sale": 19.5, "currency": "EUR" },
+  "discount": 50,
+  "startDate": "2026-11-25",
+  "endDate": "2026-12-01",
+  "icon": "https://project-kiri.com/icon-192.png"
+}
